@@ -1,0 +1,6 @@
+{
+  "name": "SkinVision AI Workspace",
+  "description": "High-fidelity Flutter & Firebase hybrid workspace featuring an immersive mobile simulator, real-time Gemini AI scanner, interactive derm-chat, daily progress tracker, and complete Flutter/Firebase codebase exporter.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
